@@ -1,0 +1,232 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NyQe5Qlcn2ObpeyDMehjJp5h3Kw",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 158,
+      "resultsPerPage": 5
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OlwU9Qsf68b80WFvWm87aQ88DhI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zIwLWfaAg-8"
+          },
+          "snippet": {
+              "publishedAt": "2017-05-01T15:15:02Z",
+              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+              "title": "Elon Musk: The future we're building -- and boring | TED",
+              "description": "Elon Musk discusses his new project digging tunnels under LA, the latest from Tesla and SpaceX and his motivation for building a future on Mars in conversation with TED's Head Curator, Chris Anderson.\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nBecome a TED Member: http://ted.com/membership\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "TED",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-05-01T15:15:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "jJAkz4CPgWP03bJUSpWq0U-qkG8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "A6Prtgjw6uA"
+          },
+          "snippet": {
+              "publishedAt": "2019-03-24T05:00:38Z",
+              "channelId": "UCPvLJ7YsMqPWkHEfv4ftFZQ",
+              "title": "How To Become A Master In The Art of Public Speaking (Part 2 of 2) | Eric Edmeades",
+              "description": "Do you have a fear of public speaking? Or perhaps you just want to improve on your public speaking abilities.Well, in this talk from Mindvalley University in Tallinn 2018, Eric Edmeades, gives us some great tips on how you can master the art of public speaking.\n\nPart 1 here 👉https://youtu.be/dHAbmoFHqgA\n\nGet transformational mentoring with the world’s best teachers storytellers and public speakers. Sign up for Mindvalley Mentoring and get access 👉 https://go.mindvalley.com/LquF0-gJ\n\n#Subscribe #PublicSpeaking #PublicSpeakingTips",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Mindvalley Talks",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-03-24T05:00:38Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DPZPWu2XGLxyGpU0EK0F_45Gw1o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "cdZZpaB2kDM"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-14T15:43:22Z",
+              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+              "title": "Elon Musk talks Twitter, Tesla and how his brain works — live at TED2022",
+              "description": "In this unedited conversation with head of TED Chris Anderson, Elon Musk — the head of Tesla, SpaceX, Neuralink and The Boring Company — digs into the recent news around his bid to purchase Twitter and gets honest about the biggest regret of his career, how his brain works, the future he envisions for the world and a lot more. (Recorded at TED2022 on April 14, 2022)\n\nThis live interview includes an excerpt from another exclusive, extended conversation recorded a few days earlier at Tesla's Texas Gigafactory. Watch that full video here: https://youtu.be/YRvf00NooN8\n\n1:22 Tesla Texas Gigafactory interview clip\n11:34 Elon Musk live at TED2022\n11:48 Twitter, free speech and open-sourcing the algorithm\n27:40 Tesla and short sellers\n32:02 If you could go back in time and change one thing, what would it be?\n33:44 Electric vehicles, manufacturing and sleeping on the floor of the Tesla factory\n38:04 \"At this point I think I know more about manufacturing than anyone currently alive on Earth.\"\n39:15 Elon's \"Master Plan\" and accelerating a sustainable energy economy\n42:36 SNL, Asperger's, childhood and how Elon's brain works\n46:48 \"I was absolutely obsessed with truth.\"\n49:23 Philosophy, the meaning of life and the \"why\" of things\n51:43 What the future will look like\n52:37 \"We want to do our absolute best to make sure the future is ... something you can look forward to and not feel sad about.\"\n\nIf you love watching TED Talks like this one, become a TED Member to support our mission of spreading ideas: http://ted.com/membership\n\nFollow TED! \nTwitter: http://twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: http://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "TED",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-14T15:43:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HY76IFEgp4Ho52MqlqvcS0Gq1zw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "oNBvC25bxQU"
+          },
+          "snippet": {
+              "publishedAt": "2020-04-02T22:33:39Z",
+              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+              "title": "It's OK to feel overwhelmed. Here's what to do next | Elizabeth Gilbert",
+              "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIf you’re feeling anxious or fearful during the coronavirus pandemic, you're not alone. Offering hope and understanding, author Elizabeth Gilbert reflects on how to stay present, accept grief when it comes and trust in the strength of the human spirit. “Resilience is our shared genetic inheritance,” she says. (This virtual conversation is part of the TED Connects series, hosted by head of TED Chris Anderson and head of curation Helen Walters. Recorded April 2, 2020)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a Media Request here: http://media-requests.TED.com\n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\n\nSubscribe to our channel: http://youtube.com/TED",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/oNBvC25bxQU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/oNBvC25bxQU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/oNBvC25bxQU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/oNBvC25bxQU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/oNBvC25bxQU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "TED",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-04-02T22:33:39Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "NOmwfhDXSLGI8IxvrMh1C2_sV9Y",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lsg7kCe4FTI"
+          },
+          "snippet": {
+              "publishedAt": "2021-12-03T21:15:49Z",
+              "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+              "title": "Psychologist REVEALS How To Develop MASSIVE CONFIDENCE! | Amy Cuddy & Lewis Howes",
+              "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nDr. Amy Cuddy is a social psychologist, bestselling author, award-winning Harvard lecturer, and expert on the behavioral science of power, presence, and prejudice.\n\nCuddy earned her Ph.D. from Princeton University in 2005 and was a professor at Harvard Business School from 2008 to 2017, Northwestern University’s Kellogg School of Management from 2006 to 2008, and Rutgers University from 2005 to 2006. She continues to teach at Harvard Business School in executive education.\n\n—\n\nIf you’re ready to learn how to harness your full personal power to reach your goals in business, life, and everything in between, then this episode might be a game changer for you! During our conversation, Amy and I also touch on how to stop being afraid of chasing your dreams, the ripple effects that overcoming trauma can have on your life, and so much more. And now, please join me for Episode 1,198 of The School of Greatness.\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Lewis Howes",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-03T21:15:49Z"
+          }
+      }
+  ]
+}
